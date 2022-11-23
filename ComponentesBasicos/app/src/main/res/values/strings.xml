@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Componentes Basicos</string>
+    <string name="email">Digite seu e-mail</string>
+    <string name="name">Digite seu nome</string>
+    <string name="send">Enviar</string>
+    <string name="result">Resultado</string>
+    <string name="cor">Cor</string>
+    <string name="purple">Purple</string>
+    <string name="vermelha">Vermelha</string>
+</resources>
