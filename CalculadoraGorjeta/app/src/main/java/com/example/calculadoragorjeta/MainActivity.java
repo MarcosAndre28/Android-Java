@@ -63,7 +63,7 @@ public class MainActivity extends AppCompatActivity {
             double total = gorjeta + value;
 
             // Exibir a gorjeta e total
-            // Math.round arredondar 
+            // Math.round arredondar
             tvGor.setText("R$ " + Math.round(gorjeta));
             tvTotal.setText("R$ " + Math.round(total));
         }
